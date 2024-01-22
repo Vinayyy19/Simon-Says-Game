@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+.container{
+    height: 200px;
+    width: 200px;
+    margin: 2rem;
+    border: 5px black solid;
+    border-radius: 20%;
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.orange{
+    background-color: orange;
+}
+.flash{
+    background-color: white;
+}
+.wrong{
+    background-color: red;
+}
